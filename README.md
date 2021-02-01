@@ -6,6 +6,6 @@ To broaden my understanding of computer vision (theoretically and practically), 
 
 * Computer vision preprocessing: openCV
 * Computer vision related DL techniques
-* CNN applications: YOLO
-* Computer vision DL applications: face recognitions
+* CNN and cv-related framework: YOLO
+* Applications of Computer vision with DL: face recognition
 * Project
