@@ -1,6 +1,6 @@
 # Computer Vision
 
-To broaden my understanding of computer vision (theoretically and practically), I will perform some key computer vision implementations.
+To broaden my understanding of computer vision (theoretically and practically), I performed some basic but key computer vision implementations.
 
 ## Topics
 
