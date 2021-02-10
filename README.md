@@ -6,6 +6,6 @@ To broaden my understanding of computer vision (CV) theoretically and practicall
 
 * CV preprocessing: openCV
 * CV and its deep learning models
-* CNN and cv-related framework: YOLO
-* Applications of Computer vision with DL: face recognition
+* CV-related framework: YOLO
+* Applications of Computer vision: face recognition
 * Project
